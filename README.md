@@ -24,7 +24,7 @@ To display all $\kappa(d,e)$ up to a given maximum value of $e$ ($e \leq 30$ by 
 ```
 allKappa(emax => 10)
 ```
-To compute an individual coefficient of $\kappa(d,e)$ (faster than computing the whole character), or a basis for an individual eigenspace of $K(d,e)$, :
+To compute an individual coefficient of $\kappa(d,e)$ (faster than computing the whole character), or a basis for an individual eigenspace of $K(d,e)$:
 ```
 h0b(2,5,{1,2,3})
 H0b(2,5,{1,2,3})
