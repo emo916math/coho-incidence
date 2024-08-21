@@ -3,7 +3,7 @@ This project contains the source code for replicating the numerical evidence sho
 
 - `print.m2`: Helper code for formatting pictures of symmetric polynomials.
 - `S.m2`: Basic methods for symmetric polynomials.
-- `h0.m2`: Computes $K(d,e)$ by the method given in Proposition 2.2. (TODO Fix indexing)
+- `h0.m2`: Computes $K(d,e)$ by the method given in Proposition 2.2.
 - `prim.m2`: Computes primitive cohomology $K(d,e)^{\mathrm{prim}}$ as described in Section 4.1.
 - `tiles.m2`: Explores tiles and produces the tables in Section 4.2.
 - `general.m2`: Explores the questions asked in Section 4.3.
