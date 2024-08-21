@@ -68,6 +68,6 @@ testEdge(emax => 30)
 ```
 
 ## Final note
-If you use [jEdit](jedit.org) to edit code, please check out my syntax highlighting modes for [MAGMA and Macaulay2](github.com/emo916math/jEdit-modes).
+If you use [jEdit](https://jedit.org) to edit code, please check out my syntax highlighting modes for [MAGMA and Macaulay2](https://github.com/emo916math/jEdit-modes).
 
 > Written with [StackEdit](https://stackedit.io/).
